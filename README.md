@@ -25,19 +25,19 @@ to create a seamless booking experience. The system automates flights, hotels, c
 ## Orchestrated AI Agent System
 We use multiple specialized AI agents that communicate and work together dynamically:
 1. Flight Optimization AI
-Finds cheapest & fastest flights, considering user preferences & rewards programs.
-Negotiates better prices or upgrades in real-time.
-Auto-reschedules flights if delays occur.
+- Finds cheapest & fastest flights, considering user preferences & rewards programs.
+- Negotiates better prices or upgrades in real-time.
+- Auto-reschedules flights if delays occur.
 2️. Accommodation AI
-Books hotels or Airbnbs based on loyalty programs, budget, and preferences.
-Suggests eco-friendly stays and work-friendly spaces for digital nomads.
-Syncs with user calendars for auto-check-in & check-out reminders.
+- Books hotels or Airbnbs based on loyalty programs, budget, and preferences.
+- Suggests eco-friendly stays and work-friendly spaces for digital nomads.
+- Syncs with user calendars for auto-check-in & check-out reminders.
 3️.Ground Transport AI
-Compares rental car, ride-sharing (Uber, Lyft), and public transit options.
-AI suggests carpooling & cost-effective routes.
+- Compares rental car, ride-sharing (Uber, Lyft), and public transit options.
+- AI suggests carpooling & cost-effective routes.
 4️. Smart Event & Meetup AI
-Detects local events, conferences, or tourist attractions based on interests.
-Integrates with LinkedIn & Google Calendar for networking meetups.
+- Detects local events, conferences, or tourist attractions based on interests.
+- Integrates with LinkedIn & Google Calendar for networking meetups.
 5. Real-Time Adjustment AI
 - Monitors flight delays, gate changes, and traffic conditions.
 - Auto-rebooks alternative options if needed.
