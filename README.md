@@ -87,7 +87,7 @@ Supports credit/debit cards, Apple Pay, Google Pay.
 Secure exclusive AI-powered travel deals.
 🎯 Why This Will Disrupt the Travel Industry?
 ✅ AI-Orchestrated Travel Planning – Multiple AI agents collaborate to book the perfect trip.
-✅ Voice-Powered Experience – Users speak to book travel via Siri & AI bots.
+✅ Voice-Powered Experience – Users speak to book travel via Whisper AI and Chatbot.
 ✅ Smarter Cost Optimization – AI tracks price changes and suggests better alternatives.
 ✅ Stripe-Enabled Secure Payments – Frictionless transactions & split payments for group trips.
 ✅ Real-Time Adjustments – AI dynamically rebooks & notifies travelers.
