@@ -1,9 +1,9 @@
 {
-  "name": "Python 3.14 Dev Container",
-  "image": "mcr.microsoft.com/devcontainers/python:3.14",
+  "name": "Python 3.12 Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
   "features": {
     "ghcr.io/devcontainers/features/python:1": {
-      "version": "3.14"
+      "version": "3.12"
     }
   },
   "customizations": {
@@ -14,6 +14,9 @@
       ]
     }
   },
-  "postCreateCommand": "pip install --upgrade pip",
+  "build": {
+  "dockerfile": "Dockerfile"
+  },
+  "postCreateCommand": "uv pip install langchain langgraph selenium",
   "remoteUser": "vscode"
 }
